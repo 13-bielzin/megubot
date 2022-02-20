@@ -1,0 +1,13 @@
+Olá! Esses são os comandos para instalar o Pinguim-Bot
+
+- $ termux-setup-storage
+- $ apt update
+- $ apt upgrade
+- $ pkg update && pkg upgrade
+- $ cd / diretório do bot 
+- $ LS
+- $ clear
+- $ ls 
+- $ bash install.sh 
+  E pronto. Para ligar o bot utilize o comando npm start. 
+  Para que o bot ligue sozinho caso ele caia, utilize o comando sh pingulin.sh 
